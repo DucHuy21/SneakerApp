@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AppSneaker</string>
+    <string name="new_arrival">New Arrival</string>
+    <string name="shoes_sneaker">Giày Sneaker</string>
+    <string name="price_sneaker">Giá: 2000000</string>
+    <string name="name_adidas">Tên sản phẩm</string>
+    <string name="price_adidas">Giá: 2000000</string>
+    <string name="note_adidas">Mô tả:</string>
+    <string name="ten_san_pham">Tên sản phẩm</string>
+    <string name="gia_san_pham">Giá: 2000000</string>
+    <string name="them_vao">Thêm vào giỏ hàng</string>
+    <string name="mo_ta">Mô tả</string>
+    <string name="gio_hang_trong">GIỏ hàng trống</string>
+    <string name="tong_thanh_toan">Tổng thanh toán: </string>
+    <string name="thanh_toan">5000000 </string>
+    <string name="mua_hang">Mua hàng</string>
+    <string name="ten_giay">Tên giày</string>
+    <string name="tv_15000">15000</string>
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="register">ĐĂNG KÝ</string>
+    <string name="neu_chua_co_tai_khoan">Nếu chưa có tài khoản?</string>
+    <string name="neu_da_co_tai_khoan">Nếu đã có tài khoản?</string>
+    <string name="register_login">Đăng kí ngay</string>
+    <string name="login_register">Đăng nhập</string>
+    <string name="dat_hang">Đặt hàng</string>
+    <string name="don_hang_chi_tiet">Đơn hàng</string>
+    <string name="app_sneaker">App Sneaker</string>
+    <string name="title_activity_thong_tin">Thông tin liên hệ</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
